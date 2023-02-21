@@ -1,0 +1,3 @@
+[submodule "navigation"]
+	path = navigation
+	url = git@github.com:DIT-ROBOTICS/navigation.git
